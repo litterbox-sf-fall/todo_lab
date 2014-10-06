@@ -11,4 +11,4 @@ Use JavaScript to prevent the form from submitting to the server.
 Instead, use your DOM manipulation skills to add the task to the page.
 
 Each task that is added to the page should have a done and a delete
-button. The done button strikes through the todo item, the delete button removes it.
+button. The done button strikes through a todo item, the delete button removes it.
